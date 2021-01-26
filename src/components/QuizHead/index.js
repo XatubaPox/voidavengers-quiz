@@ -4,7 +4,10 @@ import db from '../../../db.json'
 export default function QuizHead() {
     return (
         <Head>
-            <title>Quiz Void Avengers</title>
+            <title>{db.title}</title>
+            <meta name="author" content={db.author} />
+            <meta name="description" content={db.description} />
+
             <meta property="og:image" content={db.bg}/>
             <meta property="og:url" content="https://voidavengers-quiz.xatubapox.vercel.app/" />
             <meta property="og:type" content="website" />
