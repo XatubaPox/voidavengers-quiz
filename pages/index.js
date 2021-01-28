@@ -54,13 +54,13 @@ export default function Home() {
             </Widget.Content>
           </Widget>
 
-          <Widget>
+          {/* <Widget>
             <Widget.Content>
               <h1>Quiz da Galera</h1>
 
               <p>lorem ipson dolor sit amet...</p>
             </Widget.Content>
-          </Widget>
+          </Widget> */}
           <Footer />
         </QuizContainer>
         <GitHubCorner projectUrl="https://github.com/XatubaPox/voidavengers-quiz" />
