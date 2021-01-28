@@ -6,7 +6,7 @@ export default function QuizHead() {
   return (
     <Head>
       <title>{db.title}</title>
-      <meta name="author" content={db.author} />
+      <meta name="author" content="Gabriel D'Nillo" />
       <meta name="title" content={db.title} />
       <meta name="description" content={db.description} />
 
