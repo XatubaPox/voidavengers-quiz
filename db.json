@@ -115,7 +115,9 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquizpokemon.cesarrobertopg.vercel.app/",
+      "https://aluraquiz-halloween.lucaskuhn.vercel.app/",
+      "https://darksouls-quiz.gui-leandro.vercel.app/"
     ],
     "theme": {
       "colors": {
